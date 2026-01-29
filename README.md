@@ -20,6 +20,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/adityajaiswal3/Leetcode-/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/adityajaiswal3/Leetcode-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -38,4 +39,12 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityajaiswal3/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/adityajaiswal3/Leetcode-/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/adityajaiswal3/Leetcode-/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
