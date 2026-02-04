@@ -30,6 +30,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/adityajaiswal3/Leetcode-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/adityajaiswal3/Leetcode-/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/adityajaiswal3/Leetcode-/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -37,6 +38,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityajaiswal3/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/adityajaiswal3/Leetcode-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/adityajaiswal3/Leetcode-/tree/master/0142-linked-list-cycle-ii) |
 ## String
 |  |
 | ------- |
@@ -61,4 +63,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adityajaiswal3/Leetcode-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/adityajaiswal3/Leetcode-/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
