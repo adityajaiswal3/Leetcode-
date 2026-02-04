@@ -9,6 +9,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/adityajaiswal3/Leetcode-/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/adityajaiswal3/Leetcode-/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/adityajaiswal3/Leetcode-/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
