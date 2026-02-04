@@ -6,6 +6,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/adityajaiswal3/Leetcode-/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0189-rotate-array) |
@@ -27,6 +28,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/adityajaiswal3/Leetcode-/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -49,4 +51,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/adityajaiswal3/Leetcode-/tree/master/0062-unique-paths) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
