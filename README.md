@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityajaiswal3/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/adityajaiswal3/Leetcode-/tree/master/0020-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -64,4 +65,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adityajaiswal3/Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adityajaiswal3/Leetcode-/tree/master/0142-linked-list-cycle-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adityajaiswal3/Leetcode-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
