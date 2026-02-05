@@ -11,6 +11,7 @@
 | [0162-find-peak-element](https://github.com/adityajaiswal3/Leetcode-/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/adityajaiswal3/Leetcode-/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/adityajaiswal3/Leetcode-/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityajaiswal3/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/adityajaiswal3/Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adityajaiswal3/Leetcode-/tree/master/0142-linked-list-cycle-ii) |
+| [0496-next-greater-element-i](https://github.com/adityajaiswal3/Leetcode-/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -69,4 +71,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityajaiswal3/Leetcode-/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/adityajaiswal3/Leetcode-/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/adityajaiswal3/Leetcode-/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
