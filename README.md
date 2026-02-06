@@ -12,6 +12,7 @@
 | [0189-rotate-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/adityajaiswal3/Leetcode-/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/adityajaiswal3/Leetcode-/tree/master/0496-next-greater-element-i) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/adityajaiswal3/Leetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3634-minimum-removals-to-balance-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Search
 |  |
@@ -74,6 +75,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityajaiswal3/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/adityajaiswal3/Leetcode-/tree/master/0496-next-greater-element-i) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/adityajaiswal3/Leetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -82,4 +84,12 @@
 |  |
 | ------- |
 | [3634-minimum-removals-to-balance-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/3634-minimum-removals-to-balance-array) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/adityajaiswal3/Leetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/adityajaiswal3/Leetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
