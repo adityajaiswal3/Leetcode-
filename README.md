@@ -12,6 +12,7 @@
 | [0189-rotate-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/adityajaiswal3/Leetcode-/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/adityajaiswal3/Leetcode-/tree/master/0496-next-greater-element-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0088-merge-sorted-array) |
+| [3634-minimum-removals-to-balance-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/3634-minimum-removals-to-balance-array) |
 ## Linked List
 |  |
 | ------- |
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/adityajaiswal3/Leetcode-/tree/master/0496-next-greater-element-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3634-minimum-removals-to-balance-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/3634-minimum-removals-to-balance-array) |
 <!---LeetCode Topics End-->
