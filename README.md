@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/adityajaiswal3/Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0088-merge-sorted-array) |
@@ -46,6 +47,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/adityajaiswal3/Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityajaiswal3/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/adityajaiswal3/Leetcode-/tree/master/0020-valid-parentheses) |
 ## Backtracking
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adityajaiswal3/Leetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/adityajaiswal3/Leetcode-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
