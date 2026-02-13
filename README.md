@@ -44,12 +44,14 @@
 | [0141-linked-list-cycle](https://github.com/adityajaiswal3/Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adityajaiswal3/Leetcode-/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/adityajaiswal3/Leetcode-/tree/master/0496-next-greater-element-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/adityajaiswal3/Leetcode-/tree/master/3714-longest-balanced-substring-ii) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adityajaiswal3/Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityajaiswal3/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/adityajaiswal3/Leetcode-/tree/master/0020-valid-parentheses) |
+| [3714-longest-balanced-substring-ii](https://github.com/adityajaiswal3/Leetcode-/tree/master/3714-longest-balanced-substring-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -120,4 +122,8 @@
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/adityajaiswal3/Leetcode-/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/adityajaiswal3/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
+## Prefix Sum
+|  |
+| ------- |
+| [3714-longest-balanced-substring-ii](https://github.com/adityajaiswal3/Leetcode-/tree/master/3714-longest-balanced-substring-ii) |
 <!---LeetCode Topics End-->
