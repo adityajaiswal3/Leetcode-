@@ -107,6 +107,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/adityajaiswal3/Leetcode-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/adityajaiswal3/Leetcode-/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/adityajaiswal3/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
+| [0450-delete-node-in-a-bst](https://github.com/adityajaiswal3/Leetcode-/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adityajaiswal3/Leetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -121,6 +122,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/adityajaiswal3/Leetcode-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/adityajaiswal3/Leetcode-/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/adityajaiswal3/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
+| [0450-delete-node-in-a-bst](https://github.com/adityajaiswal3/Leetcode-/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adityajaiswal3/Leetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -135,5 +137,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/adityajaiswal3/Leetcode-/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adityajaiswal3/Leetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
