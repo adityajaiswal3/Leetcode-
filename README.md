@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityajaiswal3/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0401-binary-watch](https://github.com/adityajaiswal3/Leetcode-/tree/master/0401-binary-watch) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,4 +140,8 @@
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/adityajaiswal3/Leetcode-/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adityajaiswal3/Leetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/adityajaiswal3/Leetcode-/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
