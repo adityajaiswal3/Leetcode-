@@ -1,29 +1,21 @@
 class Solution {
 public:
-    int hight(TreeNode* root)
-    {
-        if(!root)
-        {
-            return 0;
-        }
-        int lh=1+hight(root->left);
-        int rh=1+hight(root->right);
-        return max(lh,rh);
-    }
     bool isBalanced(TreeNode* root) {
-        if(root==NULL)
-        {
-            return true;
-        }
-        int lh=hight(root->left)-1,rh=hight(root->right)-1;
-        if(abs(lh-rh)<=1)
-        {
-            return isBalanced(root->left)&&isBalanced(root->right);
-            
-        }
-        else{
-            return false;
-        }
-        return true;
+        return dfsHeight(root) != -1;
+    }
+
+private:
+    int dfsHeight(TreeNode* node) {
+        if (!node) return 0;
+
+        int leftHeight = dfsHeight(node->left);
+        if (leftHeight == -1) return -1;
+
+        int rightHeight = dfsHeight(node->right);
+        if (rightHeight == -1) return -1;
+
+        if (abs(leftHeight - rightHeight) > 1) return -1;
+
+        return 1 + max(leftHeight, rightHeight);
     }
 };
