@@ -14,6 +14,7 @@
 | [0283-move-zeroes](https://github.com/adityajaiswal3/Leetcode-/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/adityajaiswal3/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adityajaiswal3/Leetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3024-type-of-triangle](https://github.com/adityajaiswal3/Leetcode-/tree/master/3024-type-of-triangle) |
 | [3634-minimum-removals-to-balance-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Search
 |  |
@@ -29,6 +30,7 @@
 | [0062-unique-paths](https://github.com/adityajaiswal3/Leetcode-/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/adityajaiswal3/Leetcode-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0189-rotate-array) |
+| [3024-type-of-triangle](https://github.com/adityajaiswal3/Leetcode-/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0088-merge-sorted-array) |
+| [3024-type-of-triangle](https://github.com/adityajaiswal3/Leetcode-/tree/master/3024-type-of-triangle) |
 | [3634-minimum-removals-to-balance-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/3634-minimum-removals-to-balance-array) |
 ## Linked List
 |  |
