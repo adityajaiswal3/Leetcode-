@@ -11,6 +11,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/adityajaiswal3/Leetcode-/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0189-rotate-array) |
+| [0213-house-robber-ii](https://github.com/adityajaiswal3/Leetcode-/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/adityajaiswal3/Leetcode-/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/adityajaiswal3/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adityajaiswal3/Leetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/adityajaiswal3/Leetcode-/tree/master/0062-unique-paths) |
+| [0213-house-robber-ii](https://github.com/adityajaiswal3/Leetcode-/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/adityajaiswal3/Leetcode-/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
