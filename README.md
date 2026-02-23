@@ -30,6 +30,7 @@
 | [0062-unique-paths](https://github.com/adityajaiswal3/Leetcode-/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/adityajaiswal3/Leetcode-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/adityajaiswal3/Leetcode-/tree/master/0509-fibonacci-number) |
 | [3024-type-of-triangle](https://github.com/adityajaiswal3/Leetcode-/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/adityajaiswal3/Leetcode-/tree/master/0062-unique-paths) |
+| [0509-fibonacci-number](https://github.com/adityajaiswal3/Leetcode-/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -147,4 +149,12 @@
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/adityajaiswal3/Leetcode-/tree/master/0401-binary-watch) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/adityajaiswal3/Leetcode-/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/adityajaiswal3/Leetcode-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
