@@ -163,4 +163,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/adityajaiswal3/Leetcode-/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/adityajaiswal3/Leetcode-/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
