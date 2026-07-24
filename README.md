@@ -11,6 +11,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityajaiswal3/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/adityajaiswal3/Leetcode-/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/adityajaiswal3/Leetcode-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/adityajaiswal3/Leetcode-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/adityajaiswal3/Leetcode-/tree/master/0213-house-robber-ii) |
@@ -52,6 +53,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityajaiswal3/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/adityajaiswal3/Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adityajaiswal3/Leetcode-/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/adityajaiswal3/Leetcode-/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/adityajaiswal3/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/adityajaiswal3/Leetcode-/tree/master/3714-longest-balanced-substring-ii) |
 ## String
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/adityajaiswal3/Leetcode-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [3024-type-of-triangle](https://github.com/adityajaiswal3/Leetcode-/tree/master/3024-type-of-triangle) |
 | [3634-minimum-removals-to-balance-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/3634-minimum-removals-to-balance-array) |
@@ -180,6 +183,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/adityajaiswal3/Leetcode-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -189,4 +193,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adityajaiswal3/Leetcode-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
