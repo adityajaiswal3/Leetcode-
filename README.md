@@ -18,6 +18,7 @@
 | [0496-next-greater-element-i](https://github.com/adityajaiswal3/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adityajaiswal3/Leetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3024-type-of-triangle](https://github.com/adityajaiswal3/Leetcode-/tree/master/3024-type-of-triangle) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/adityajaiswal3/Leetcode-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Search
 |  |
@@ -35,6 +36,7 @@
 | [0189-rotate-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/adityajaiswal3/Leetcode-/tree/master/0509-fibonacci-number) |
 | [3024-type-of-triangle](https://github.com/adityajaiswal3/Leetcode-/tree/master/3024-type-of-triangle) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/adityajaiswal3/Leetcode-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/adityajaiswal3/Leetcode-/tree/master/0401-binary-watch) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/adityajaiswal3/Leetcode-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -168,4 +171,8 @@
 | ------- |
 | [0595-big-countries](https://github.com/adityajaiswal3/Leetcode-/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/adityajaiswal3/Leetcode-/tree/master/1148-article-views-i) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/adityajaiswal3/Leetcode-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
