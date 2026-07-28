@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/adityajaiswal3/Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0079-word-search](https://github.com/adityajaiswal3/Leetcode-/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityajaiswal3/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -62,11 +63,13 @@
 | [0014-longest-common-prefix](https://github.com/adityajaiswal3/Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityajaiswal3/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/adityajaiswal3/Leetcode-/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/adityajaiswal3/Leetcode-/tree/master/0079-word-search) |
 | [3714-longest-balanced-substring-ii](https://github.com/adityajaiswal3/Leetcode-/tree/master/3714-longest-balanced-substring-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityajaiswal3/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/adityajaiswal3/Leetcode-/tree/master/0079-word-search) |
 | [0401-binary-watch](https://github.com/adityajaiswal3/Leetcode-/tree/master/0401-binary-watch) |
 ## Dynamic Programming
 |  |
@@ -146,6 +149,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/adityajaiswal3/Leetcode-/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/adityajaiswal3/Leetcode-/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/adityajaiswal3/Leetcode-/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/adityajaiswal3/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
@@ -197,4 +201,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adityajaiswal3/Leetcode-/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/adityajaiswal3/Leetcode-/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
