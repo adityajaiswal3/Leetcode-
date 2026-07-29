@@ -37,6 +37,7 @@
 | [0007-reverse-integer](https://github.com/adityajaiswal3/Leetcode-/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/adityajaiswal3/Leetcode-/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/adityajaiswal3/Leetcode-/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/adityajaiswal3/Leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/adityajaiswal3/Leetcode-/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/adityajaiswal3/Leetcode-/tree/master/0509-fibonacci-number) |
 | [3024-type-of-triangle](https://github.com/adityajaiswal3/Leetcode-/tree/master/3024-type-of-triangle) |
@@ -65,6 +66,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityajaiswal3/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/adityajaiswal3/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/adityajaiswal3/Leetcode-/tree/master/0079-word-search) |
+| [0168-excel-sheet-column-title](https://github.com/adityajaiswal3/Leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [3714-longest-balanced-substring-ii](https://github.com/adityajaiswal3/Leetcode-/tree/master/3714-longest-balanced-substring-ii) |
 ## Backtracking
 |  |
