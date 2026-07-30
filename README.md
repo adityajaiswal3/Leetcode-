@@ -58,6 +58,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityajaiswal3/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/adityajaiswal3/Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adityajaiswal3/Leetcode-/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/adityajaiswal3/Leetcode-/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/adityajaiswal3/Leetcode-/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/adityajaiswal3/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/adityajaiswal3/Leetcode-/tree/master/3714-longest-balanced-substring-ii) |
@@ -103,6 +104,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adityajaiswal3/Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adityajaiswal3/Leetcode-/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/adityajaiswal3/Leetcode-/tree/master/0146-lru-cache) |
 ## Stack
 |  |
 | ------- |
@@ -212,4 +214,12 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/adityajaiswal3/Leetcode-/tree/master/0079-word-search) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/adityajaiswal3/Leetcode-/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/adityajaiswal3/Leetcode-/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
